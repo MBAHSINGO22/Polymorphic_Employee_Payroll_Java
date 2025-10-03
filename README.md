@@ -5,7 +5,7 @@ Demonstrasi Polimorfisme dan Abstraksi untuk Penggajian Pegawai di Java.
 
 ## 📖 Deskripsi Proyek
 
-**Polymorphic_Employee_Payroll_Java** adalah proyek pembelajaran Java yang menunjukkan penggunaan **abstraksi** dan **polimorfisme** dalam pengelolaan data pegawai dengan berbagai status: **Manajer**, **Pemasaran**, dan **Honorer**. Program ini menghitung total gaji berdasarkan gaji pokok dan tunjangan spesifik untuk setiap jenis pegawai.
+Proyek Java yang menunjukkan penggunaan **abstraksi** dan **polimorfisme** dalam pengelolaan data pegawai dengan berbagai status: **Manajer**, **Pemasaran**, dan **Honorer**. Program ini menghitung total gaji berdasarkan gaji pokok dan tunjangan spesifik untuk setiap jenis pegawai.
 
 ### 📁 Fitur Utama:
 - 📊 **Pegawai.java**: Kelas abstrak induk dengan atribut `NPP`, `nama`, `gajiPokok`, dan metode abstrak `getStatus()`, `getTunjangan()`, dan `hitungGaTot()`.
